@@ -28,3 +28,8 @@ f 118
 f 216
 f 99
 v 529
+f 84
+f 313
+krillin 550
+ f 73
+kid gohan 601
