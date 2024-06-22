@@ -147,7 +147,7 @@ while running:
     screen.fill(BG_COLOR)
     all_sprites.draw(screen)
 
-    # Display score
+    # Display score 
     font = pygame.font.Font(None, 36)
     text = font.render(f"Score: {int(score)}", True, (255, 255, 255))
     screen.blit(text, (10, 10))
